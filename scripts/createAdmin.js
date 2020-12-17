@@ -19,7 +19,7 @@ const Admin = mongoose.model('Admin', adminSchema); //create collection
 
 async function addAdmin() {
   const adminData = [{
-    username: 'sudarshana',
+    username: 'Sarvesh',
     password: 'YWRtaW4='
   }, {
     username: 'admin',

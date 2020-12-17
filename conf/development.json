@@ -1,0 +1,10 @@
+{
+	"mongo": {
+		"host": "localhost",
+		"port": 27017,
+		"db": "movie"
+	},
+	"api": {
+		"port": 8080
+	}
+}
